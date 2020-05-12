@@ -1,0 +1,202 @@
+﻿  pch.cpp
+  ConsoleApplication2.cpp
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1,1): warning C4005: "_CRT_SECURE_NO_WARNINGS": ponowna definicja makra
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp : message : zobacz poprzednią definicję „_CRT_SECURE_NO_WARNINGS”
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1): warning C4603: _CRT_SECURE_NO_WARNINGS: makro jest niezdefiniowane lub definicja różni się po użyciu prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1): message : Dodaj makro do prekompilowanego nagłówka, zamiast definiować go w tym miejscu
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5): message : użyj prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2): warning C4603: _CRT_NONSTDC_NO_DEPRECATE: makro jest niezdefiniowane lub definicja różni się po użyciu prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2): message : Dodaj makro do prekompilowanego nagłówka, zamiast definiować go w tym miejscu
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5): message : użyj prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3): warning C4603: _WIN32_WINNT: makro jest niezdefiniowane lub definicja różni się po użyciu prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3): message : Dodaj makro do prekompilowanego nagłówka, zamiast definiować go w tym miejscu
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5): message : użyj prekompilowanego nagłówka
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(115,14): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(115,17): warning C4838: konwersja z „int” do „SHORT” wymaga konwersji zawężającej
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(690,29): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(689,7): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(755,29): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(754,7): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(767,29): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(766,7): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(777,29): warning C4101: "csbiInfo": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(776,7): warning C4101: "wOldColorAttrs": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1907,5): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1908,8): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1913,12): warning C4244: "argument": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1928,10): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1931,5): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1932,8): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1950,10): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1953,5): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1955,5): warning C4553: „==”: Wynik wyrażenia nie jest używany; czy chodziło Ci o „=”?
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(1956,8): warning C4244: "inicjowanie": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2661,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(2662,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3003,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3004,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3008,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3009,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3017,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3018,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3022,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3023,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3030,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3031,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3035,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3036,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3043,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3044,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3048,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3049,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3056,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3057,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3061,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3062,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3117,27): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3119,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3148,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3149,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3187,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3188,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3216,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3217,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3254,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3255,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3301,92): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3302,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3596,25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3649,33): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3651,16): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3708,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3745,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3320,19): warning C4390: ";": znaleziono kontrolowaną pustą instrukcję; czy to było zamierzone?
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3800,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(3801,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4113,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4114,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4118,89): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4119,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4127,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4128,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4132,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4133,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4140,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4141,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4145,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4146,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4153,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4154,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4158,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4159,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4166,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4167,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4171,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4172,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4218,25): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4220,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4249,89): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4250,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4280,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4281,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4307,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4308,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4337,89): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4338,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4382,92): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4383,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4662,25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4710,33): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4712,16): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4770,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4807,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4861,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(4862,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5177,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5178,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5182,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5183,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5191,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5192,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5196,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5197,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5204,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5205,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5209,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5210,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5217,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5218,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5222,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5223,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5230,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5231,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5235,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5236,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5282,27): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5284,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5313,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5314,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5344,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5345,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5371,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5372,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5401,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5402,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5446,92): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5447,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5724,24): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5772,32): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5774,15): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5828,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5865,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5920,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(5921,12): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6227,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6228,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6232,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6233,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6241,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6242,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6246,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6247,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6254,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6255,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6259,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6260,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6267,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6268,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6272,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6273,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6280,85): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6281,66): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6285,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6286,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6332,27): warning C4244: "+=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6334,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6363,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6364,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6394,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6395,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6421,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6422,86): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6451,91): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6452,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6466,24): warning C4244: "-=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6496,92): warning C4244: "-=": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6497,87): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6777,25): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6825,33): warning C4244: "+=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6827,16): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6884,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(6921,13): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8499,15): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8500,17): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8666,12): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8673,12): warning C4244: "=": konwersja z "float" do "int", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8786,14): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(8787,16): warning C4244: "inicjowanie": konwersja z "int" do "float", możliwa utrata danych
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9028,6): warning C4101: "a": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9029,6): warning C4101: "b": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9219,15): warning C4101: "ruch": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(9217,7): warning C4101: "key": lokalna zmienna, do której nie istnieje odwołanie
+  ConsoleApplication2.vcxproj -> C:\Users\mbart\Desktop\DungeonGame-master\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe

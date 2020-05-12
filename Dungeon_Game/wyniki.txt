@@ -1,0 +1,15 @@
+Manis
+50
+2245000
+Yogi
+1
+2000
+Dominik
+10
+66800
+Wojtek
+12
+86129
+Michal
+9
+45328
